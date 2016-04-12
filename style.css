@@ -1,0 +1,165 @@
+body{
+  margin-top:0px;
+  margin-left:0px;
+  margin-right: 0px;
+ background-image: url('galeria/mo1.jpg');
+ opacity: 0.8;
+ background-size: cover;
+  }
+.jumbotron {
+ background-color:white;/*drugie tło głównej strony*/
+ padding-left: 8%;
+ padding-top: 0%;
+  height: 90em;
+    -webkit-background-size: cover; 
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+.container  {	
+    font-size:10px;
+    word-spacing: 10px;
+    display: inline;
+  	background-color:white;/*trzecie tło głównej strony*/
+   	height: 110%;
+  	width: 85%;
+  	position: absolute
+ }
+
+.okno1 {
+	float: left;
+	overflow: scroll;
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;	
+	width: 80%;
+	height: 60%;
+	background-color: white;
+}
+.okno2 {
+	float: left;
+    margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 0%;	
+	width: 80%;
+	height: 150%;
+	background-color: black;
+}
+.okno2 h1 {
+	color: yellow;
+	margin-left: 32%;
+}
+.okno2 h2{
+	color:white;
+	margin-left: 1%;
+	text-align: center;
+}
+.okno2 h2 p{	
+	text-align: center;
+}
+.okno2_2{
+	margin-left: 30%;
+	margin-top: 5%;	
+
+	}
+.okno2_2 h2{
+	float: left;
+	margin-right: 20px;
+}
+.style{
+	text-align: center;
+	border-bottom: 1px solid black; 
+	width: 1530px;
+	height: 10%;
+	margin-left: 5%;
+	margin-top: 0%;
+}
+.prawa_autorskie > h4{
+	margin-left: 70%;
+	margin-top: 0%;
+}
+.partnerzy{
+	margin-left:40%;
+	margin-top: 10%;
+}
+.partnerzy h2{
+	margin-left:3%;
+	margin-top: 230%;
+	margin-bottom: 5%;
+	}
+.wstawka1{
+	margin-top: 1%;
+	margin-left: 8%;
+}
+.wstawka2{
+	margin-top: 1%;
+	margin-left: 8%;
+	margin-bottom: 0%;
+}
+.wozki{
+	margin-left: 12%;
+}
+.mo2{
+	margin-left: 35%;
+}
+.x1{
+	margin-right: 90%;
+	margin-top: 6%;
+	float: right;
+	
+}
+.x2{
+	margin-right: 90%;
+	margin-top: 5%;
+	float: right;
+	
+}
+.x3{
+	margin-right: 90%;
+	margin-top: 5%;
+	float: right;
+	
+}
+
+.baner{
+	margin-bottom: 5%;
+	margin-left: 40%;
+}
+.modi{
+	float: left;
+	margin-left: 2%;
+	margin-top: 0%;
+}
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+

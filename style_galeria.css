@@ -1,0 +1,54 @@
+#duze_zdjecie {
+	border: solid 1px #ccc;
+	width: 900px;
+	height: 800px;
+	padding: 5px;
+}
+#miniaturka a {
+	border: solid 1px #ccc;
+	width: 100px;
+	height: 200px;
+	padding: 3px;
+	margin: 60px;
+	float: left;
+}
+#miniaturka a:hover {
+	border-color: red;
+}
+#miniaturka li {
+	list-style: none;
+}
+#miniaturka {
+	margin-right: 20%;
+	padding: 0;
+}
+#miniaturka img {
+	width: 200px;
+	height: 200px;	 
+}
+.okno_galeria{
+	
+    margin-left:15%;
+	margin-top: 5%;
+	padding-right: 43%;
+	margin-bottom: 0%;	
+	width: 125%;
+	height: 200%;
+	background-color: white;
+}
+ .style1{
+	text-align: center;
+	border-bottom: 1px solid black; 
+	width: 1000px;
+	height: 10%;
+	margin-left: 5%;
+	margin-top: 170%;
+}
+.prawa_autorskie1 > h4{
+	margin-left: 40%;
+	margin-top: 0%;
+}
+
+
+
+
